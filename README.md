@@ -24,7 +24,7 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 <!-- trocar o texto abaixo pelo resumo do trabalho, em português -->
 
-O Walmart é uma multinacional de lojas de departamento. Em 2010 a companhia foi eleita a maior multinacional. O projeto proposto faz uso da base de vendas com 45 lojas espalhadas pelos estados unidos no período de 2010, 2011 e 2012. 
+Este trabalho tem como objetivo de explorar modelos de machine learning e redes neurais com intuito de otimizarum modelo a ponto que este seja capaz de trazer os melhores resultados na previsão de vendas do Walmart.
 
 
 
@@ -40,9 +40,7 @@ Donec molestie, ante quis tempus consequat, mauris ante fringilla elit, euismod 
 
 ### 1. Introdução
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
-
-Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
+O Walmart é uma multinacional de lojas de departamento. Em 2010 a companhia foi eleita a maior multinacional. O projeto proposto faz uso da base de vendas com 45 lojas espalhadas pelos estados unidos no período de 2010, 2011 e 2012.
 
 ### 2. Modelagem
 
