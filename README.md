@@ -24,7 +24,7 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 <!-- trocar o texto abaixo pelo resumo do trabalho, em português -->
 
-O Walmart é uma multinacional de lojas de departamento. Em 2010 a companhia foi eleita a maior multinacional.O projeto proposto faz uso da base de vendas com 45 lojas espalhadas pelos estados unidos no período de 2010, 2011 e 2012. 
+O Walmart é uma multinacional de lojas de departamento. Em 2010 a companhia foi eleita a maior multinacional. O projeto proposto faz uso da base de vendas com 45 lojas espalhadas pelos estados unidos no período de 2010, 2011 e 2012. 
 
 
 
