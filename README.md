@@ -42,9 +42,7 @@ A base contém além da informação de vendas outras variaveis importantes para
 
 Com uma analise geral das 45 lojas temos um comportamento geral:
 
-As terças e domingo foram os dias que as lojas mais venderam durante a semana considerando os 3 anos propostos.
 
-![image](https://user-images.githubusercontent.com/48620885/174103745-d8431c12-6c17-489b-8261-d8a6d11144ba.png)
 
 
 
