@@ -40,10 +40,16 @@ O Walmart é uma multinacional de lojas de departamento. O projeto proposto faz 
 
 A base contém além da informação de vendas outras variaveis importantes para o projeto como indicadores de feriados, temperatura, preço da gasolina, taxa de desemprego e CPI (índice de preços ao consumidor).
 
-Com uma analise geral das 45 lojas temos um comportamento geral:
+Com uma analise geral das 45 lojas temos alguns pontos em relação a base:
+
+As lojas que mais venderam obtiveram suas maiores vendas no mês de dezembro e no ano de 2010 e 2011. 
+
+![image](https://user-images.githubusercontent.com/48620885/174111929-351dd97b-2bc9-4e88-ab45-5ad0afd898f5.png)
 
 
-Em relação a correlação entre as variaveis temos o efeito do aumento do desemprego, CPI(aumento do indice de preços) e temperatura impactam negativamente as vendas. 
+
+Em relação a correlação entre as variaveis temos o efeito do aumento do desemprego, CPI(aumento do indice de preços) e temperatura impactam negativamente as vendas.
+
 ![image](https://user-images.githubusercontent.com/48620885/174110264-cd8bfe9a-2512-4227-b874-7deb2a2df81a.png)
 
 
