@@ -24,7 +24,7 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 <!-- trocar o texto abaixo pelo resumo do trabalho, em português -->
 
-Este trabalho tem como objetivo de explorar modelos de machine learning e redes neurais com intuito de otimizarum modelo a ponto que este seja capaz de trazer os melhores resultados na previsão de vendas do Walmart.
+Este trabalho tem como objetivo explorar modelos de machine learning e redes neurais com intuito de obter o melhor resultado na otimização da previsão de vendas da loja numero 1 do Walmart.
 
 
 
