@@ -36,7 +36,7 @@ This work aims to explore machine learning models and neural networks in order t
 
 ### 1. Introdução
 
-O Walmart é uma multinacional de lojas de departamento. O projeto proposto faz uso da base de vendas com 45 lojas espalhadas pelos estados unidos no período de 2010, 2011 e 2012.
+O Walmart é uma multinacional de lojas de departamento. O projeto proposto faz uso da base de vendas com 45 lojas espalhadas pelos Estados Unidos no período de 2010, 2011 e 2012.
 
 A base contém além da informação de vendas outras variaveis importantes para o projeto como indicadores de feriados, temperatura, preço da gasolina, taxa de desemprego e CPI (índice de preços ao consumidor).
 
