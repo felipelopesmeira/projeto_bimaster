@@ -42,7 +42,7 @@ A base contém além da informação de vendas outras variaveis importantes para
 
 Com uma analise geral das 45 lojas temos alguns pontos em relação a base:
 
-Em uma análise inicial da base temos o Walmart com seu melhor ano de vendas em 2011 e o pior em 2012.
+O Walmart teve seu melhor desempenho em vendas em 2011 e o pior em 2012.
 
 ![image](https://user-images.githubusercontent.com/48620885/174113940-a7928b86-5c13-4865-9fca-38dd37c2582a.png)
 
