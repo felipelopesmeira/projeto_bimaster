@@ -53,7 +53,7 @@ As lojas que mais venderam obtiveram suas maiores vendas no mês de dezembro e n
 
 
 
-Em relação a correlação entre as variaveis temos o efeito do aumento do desemprego, CPI(aumento do indice de preços) e temperatura impactando negativamente a variavel vendas.
+Em relação a correlação entre as variaveis temos o efeito do aumento do desemprego, CPI(aumento do indice de preços) e temperatura impactando negativamente a variavel Weekly_sales (vendas semanais).
 
 ![image](https://user-images.githubusercontent.com/48620885/174110264-cd8bfe9a-2512-4227-b874-7deb2a2df81a.png)
 
