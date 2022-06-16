@@ -43,7 +43,8 @@ A base contém além da informação de vendas outras variaveis importantes para
 Com uma analise geral das 45 lojas temos um comportamento geral:
 
 
-
+Em relação a correlação entre as variaveis temos o efeito do aumento do desemprego, CPI(aumento do indice de preços) e temperatura impactam negativamente as vendas. 
+![image](https://user-images.githubusercontent.com/48620885/174110264-cd8bfe9a-2512-4227-b874-7deb2a2df81a.png)
 
 
 
