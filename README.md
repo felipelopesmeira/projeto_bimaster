@@ -40,6 +40,15 @@ O Walmart é uma multinacional de lojas de departamento. O projeto proposto faz 
 
 A base contém além da informação de vendas outras variaveis importantes para o projeto como indicadores de feriados, temperatura, preço da gasolina, taxa de desemprego e CPI (índice de preços ao consumidor).
 
+Com uma analise geral das 45 lojas temos um comportamento geral:
+
+As terças e domingo foram os dias que as lojas mais venderam durante a semana considerando os 3 anos propostos.
+
+![image](https://user-images.githubusercontent.com/48620885/174103745-d8431c12-6c17-489b-8261-d8a6d11144ba.png)
+
+
+
+
 ### 2. Modelagem
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
