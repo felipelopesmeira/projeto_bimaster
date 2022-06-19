@@ -24,7 +24,7 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 <!-- trocar o texto abaixo pelo resumo do trabalho, em português -->
 
-Este trabalho tem como objetivo explorar modelos de machine learning e redes neurais com intuito de obter o melhor resultado na otimização da previsão de vendas da loja numero 1 do Walmart.
+Este trabalho tem como objetivo explorar modelos de machine learning e redes neurais com intuito de obter o melhor resultado na otimização da previsão de vendas da loja número 1 do Walmart.
 
 
 
@@ -36,28 +36,27 @@ This work aims to explore machine learning models and neural networks in order t
 
 ### 1. Introdução
 
-O Walmart é uma multinacional de lojas de departamento. O projeto proposto faz uso da base de vendas com 45 lojas espalhadas pelos Estados Unidos nos período de 2010, 2011 e 2012.
+O Walmart é uma multinacional de lojas de departamento. O projeto proposto faz uso da base de vendas de 45 lojas espalhadas pelos Estados Unidos no período de 2010 a 2012.
 
-A base contém além da informação de vendas outras variaveis importantes para o projeto como indicadores de feriados, temperatura, preço da gasolina, taxa de desemprego e CPI (índice de preços ao consumidor).
+A base contém além da informação de vendas, outras variáveis importantes para o projeto como indicadores de feriados, temperatura, preço da gasolina, taxa de desemprego e CPI (índice de preços ao consumidor).
 
-Com uma analise geral das 45 lojas temos alguns pontos em relação a base:
+Com uma análise geral das 45 lojas, há alguns pontos que se destacam na base:
 
-O Walmart teve seu melhor desempenho em vendas em 2011 e o pior em 2012.
+- O Walmart teve seu melhor desempenho em vendas em 2011 e o pior em 2012;
 
 ![image](https://user-images.githubusercontent.com/48620885/174113940-a7928b86-5c13-4865-9fca-38dd37c2582a.png)
 
 
-As lojas que mais venderam obtiveram suas maiores vendas no mês de dezembro e nos anos de 2010 e 2011. 
+- As lojas que mais venderam obtiveram suas maiores vendas no mês de Dezembro e nos anos de 2010 e 2011;
 
 ![image](https://user-images.githubusercontent.com/48620885/174111929-351dd97b-2bc9-4e88-ab45-5ad0afd898f5.png)
 
 
-
-Em relação a correlação entre as variaveis temos o efeito do aumento do desemprego, CPI(aumento do indice de preços) e temperatura impactando negativamente a variavel Weekly_sales (vendas semanais).
+- Em relação a correlação entre as variáveis, temos o efeito do aumento do desemprego, CPI (aumento do índice de preços) e temperatura impactando negativamente a variável Weekly_sales (vendas semanais);
 
 ![image](https://user-images.githubusercontent.com/48620885/174110264-cd8bfe9a-2512-4227-b874-7deb2a2df81a.png)
 
-Após a análise exploratoria inicial da base, foi selecionada aleatoriamente a loja de numero 1 do Walmart. Interessante ressaltar que essa loja não figura entre as maiores vendas da base.
+- Após a análise exploratoria inicial da base, foi selecionada aleatoriamente a loja de número 1 do Walmart. Interessante ressaltar que essa loja não figura entre as maiores vendas da base.
 
 ### 2. Modelagem
 
