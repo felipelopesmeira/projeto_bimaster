@@ -52,7 +52,7 @@ Com uma análise geral das 45 lojas, há alguns pontos que se destacam na base:
 ![image](https://user-images.githubusercontent.com/48620885/174111929-351dd97b-2bc9-4e88-ab45-5ad0afd898f5.png)
 
 
-- Em relação a correlação entre as variáveis, temos o efeito do aumento do desemprego, CPI (aumento do índice de preços) e temperatura impactando negativamente a variável Weekly_sales (vendas semanais);
+- Em relação à correlação entre as variáveis, temos o efeito do aumento do desemprego, CPI (índice de preços ao consumidor) e temperatura impactando negativamente a variável Weekly_sales (vendas semanais);
 
 ![image](https://user-images.githubusercontent.com/48620885/174110264-cd8bfe9a-2512-4227-b874-7deb2a2df81a.png)
 
