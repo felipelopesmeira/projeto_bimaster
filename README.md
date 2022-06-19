@@ -60,7 +60,7 @@ Com uma análise geral das 45 lojas, há alguns pontos que se destacam na base:
 
 ### 2. Modelagem
 
-O projeto proposto foi dividido em duas abordagens. Uma considera apenas as informações de vendas e a outra considera vendas e as demais variavéis como feriados, temperatura, preço da gasolina, taxa de desemprego e CPI.
+O projeto proposto foi dividido em duas abordagens. Uma considera apenas as informações de vendas e a outra considera também variavéis como feriados, temperatura, preço da gasolina, taxa de desemprego e CPI.
 
 
 
