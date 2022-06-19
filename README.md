@@ -57,7 +57,7 @@ Em relação a correlação entre as variaveis temos o efeito do aumento do dese
 
 ![image](https://user-images.githubusercontent.com/48620885/174110264-cd8bfe9a-2512-4227-b874-7deb2a2df81a.png)
 
-Após a análise exploratoria inicial da base, foi selecionada aleatoriamente a loja de numero 1 do Walmart. Essa loja não figura entre as maiores vendas.
+Após a análise exploratoria inicial da base, foi selecionada aleatoriamente a loja de numero 1 do Walmart. Interessante ressaltar que essa loja não figura entre as maiores vendas da base.
 
 ### 2. Modelagem
 
