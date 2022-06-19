@@ -62,8 +62,14 @@ Com uma análise geral das 45 lojas, há alguns pontos que se destacam na base:
 
 O projeto proposto foi dividido em duas abordagens. Uma considera apenas as informações de vendas e a outra considera também variavéis como feriados, temperatura, preço da gasolina, taxa de desemprego e CPI.
 
+Modelo 1: Apenas considerando os dados de vendas.
 
-
+1. Para a previsão de vendas do modelo foi determinada uma janela de 20 entradas.
+2. Separação da base entre treino e teste. 
+3. Normalização das bases.
+4. Aplicação dos modelos Random forest, Decision Tree, Redes neural com multiplas camadas e LSTM.
+5. Avaliação dos modelos utilizando RMSE, MSE, R2 e RMSPE.
+6. Previsão das proximas 12 entradas de vendas.
 
 ### 3. Resultados
 
