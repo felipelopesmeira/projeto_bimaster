@@ -73,6 +73,12 @@ Modelo 1: Apenas considerando os dados de vendas.
 
 Modelo 2: Considerando os dados de vendas e as séries exogenas.
 
+1. Para a previsão de vendas do modelo foi determinada uma janela de 20 entradas.
+2. Separação da base entre treino e teste. 
+3. Normalização das bases.
+4. Aplicação dos modelos Random forest, Decision Tree, Redes neural com multiplas camadas e LSTM.
+5. Avaliação dos modelos utilizando RMSE, MSE, R2 e RMSPE.
+6. Previsão das proximas 12 entradas de vendas.
 
 ### 3. Resultados
 
