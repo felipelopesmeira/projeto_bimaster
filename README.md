@@ -84,22 +84,6 @@ Modelo 2: Considerando os dados de vendas e as séries exogenas.
 
 Os resultados apresentados para ambos os modelos na aplicação do random forest apresentaram grande similaridade. 
 
-	Random Forest	Decision Tree	RNN	LSTM
-	Modelo 1	Modelo 1	Modelo 1	Modelo 1
-RMSE	164252.0124	163784.0344	176657.5269	198503.6568
-MSE	26978723567	26825209938	31207881823	39403701756
-MAPE	6.10%	6.82%	6.93%	7.35%
-R2_score	-4.32357196	0.411642147	-0.299064598	-32.39108755
-RMSPE	[8.77648461] %	[9.25900233] %	[10.16531628] %	[10.22618955] %
-				
-	Random Forest	Decision Tree	RNN	LSTM
-	modelo 2	modelo 2	modelo 2	modelo 2
-RMSE	163645.055	203595.0168	147799.1411	83895.53846
-MSE	26779704019	41450930877	21844586111	7038461373
-MAPE	5.76%	6.86%	7.59%	4.08%
-R2_score	-2.05126665	0.075799839	0.259506948	0.689388737
-RMSPE	[8.51515159] %	[11.68523346] %	[9.28600371] %	[5.29037507] %
-![image](https://user-images.githubusercontent.com/48620885/177659439-3404a916-aa2e-4025-aff3-33754a19e92d.png)
 
 
 ### 4. Conclusões
