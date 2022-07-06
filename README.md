@@ -84,6 +84,7 @@ Modelo 2: Considerando os dados de vendas e as séries exogenas.
 
 Os resultados apresentados para ambos os modelos na aplicação do random forest apresentaram grande similaridade. 
 
+![image](https://user-images.githubusercontent.com/48620885/177659870-dfb79ab7-eaa2-4283-8fc7-aa1baae3dc8b.png)
 
 
 ### 4. Conclusões
