@@ -82,7 +82,7 @@ Modelo 2: Considerando os dados de vendas e as séries exogenas.
 
 ### 3. Resultados
 
-Os resultados apresentados para ambos os modelos na aplicação do random forest apresentaram grande similaridade. 
+Os melhores resultados foram encontrados pelo modelo 2 LSTM que considera as séries exogenas. 
 
 ![image](https://user-images.githubusercontent.com/48620885/177659988-0a367aa7-58fc-4f73-9410-55a46f09a3be.png)
 
