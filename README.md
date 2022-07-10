@@ -82,13 +82,17 @@ Modelo 2: Considerando os dados de vendas e as séries exogenas.
 
 ### 3. Resultados
 
-Os melhores resultados foram encontrados pelo modelo 2 LSTM que considera as séries exogenas.
+Avaliando os dois modelos obtivemos os seguintes resultados;
 
 RMSE e MSE são métricas que calculam a média de diferença entre o valor predito com o real, quanto maior o valor significa que o modelo não obteve uma boa performance. O modelo 2 LSTM apresentou os valores mais baixos sendo superior aos demais modelos nesses quesitos.
 
 Mape é uma métrica que mostra a porcentagem de erro em relação aos valores reais. No modelo 2 o mape apresentou o percentual de 4.1%. Então se o resultado de MAPE for igual a 4.1% significa que o nosso modelo faz previsões que em média a diferença entre o valor previsto e o real equivale a 4.1% do valor real tanto para mais quanto para menos.
 
 Modelo R2_score representa o percentual da variância dos dados que é explicado pelo modelo, os resultados variam entre 0 e 1 quanto maior é o valor de r2 mais explicativo é o modelo. O modelo de maior tamanho no quadro analisado foi o LSTM do modelo 2. 
+
+RMSPE mensura o erro percentual em relação a magnitude da variável. O menor valor encontrado foi também no modelo 2 de LSTM.
+
+Os melhores resultados foram encontrados pelo modelo 2 LSTM que considera as séries exogenas.
 
 ![image](https://user-images.githubusercontent.com/48620885/177659988-0a367aa7-58fc-4f73-9410-55a46f09a3be.png)
 
