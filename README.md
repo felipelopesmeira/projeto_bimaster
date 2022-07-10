@@ -88,7 +88,7 @@ RMSE e MSE são métricas que calculam a média da diferença entre o valor pred
 
 MAPE é uma métrica que mostra a porcentagem de erro em relação aos valores reais. No modelo 2 LSTM, o Mape apresentou o percentual de 4.1%. Então se o resultado de MAPE for igual a 4.1%, significa que o modelo faz previsões em que a média da diferença entre o valor previsto e o real equivale a 4.1% do valor real, tanto para mais quanto para menos.
 
-R2_score representa o percentual da variância dos dados que é explicado pelo modelo, os resultados variam entre 0 e 1 quanto maior é o valor de r2 mais explicativo é o modelo. O modelo de maior tamanho no quadro analisado foi o LSTM do modelo 2. 
+R2_score representa o percentual da variância dos dados que é explicado pelo modelo, os resultados variam entre 0 e 1 quanto maior é o valor de r2 mais explicativo é o modelo. O modelo de maior tamanho no quadro analisado foi do modelo 2 LSTM. 
 
 RMSPE mensura o erro percentual em relação a magnitude da variável. O menor valor encontrado foi também no modelo 2 LSTM.
 
