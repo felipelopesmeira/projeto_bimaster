@@ -104,6 +104,11 @@ O Objetivo do trabalho foi explorar modelos de machine learning e redes neurais 
 
 ![image](https://user-images.githubusercontent.com/48620885/178612786-beb0e08a-57cf-4193-9f1d-d0557c4bc8c9.png)
 
+Na previsão dos proximos 12 passos o modelo novamente segue o mesmo padrão de comportamento da série, demonstrando sua capacidade de memoria da informação.
+
+![image](https://user-images.githubusercontent.com/48620885/178614862-e0dd2dc3-2494-4c95-8c77-5f3e54a59303.png)
+
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
 
