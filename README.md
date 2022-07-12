@@ -100,7 +100,7 @@ Os melhores resultados foram encontrados pelo modelo 2 LSTM que considera as sé
 
 ### 4. Conclusões
 
-O modelo 2 LSTM apresentou o melhor resultado entre todos os modelos estudados. Na análise de real x previsto pode-se notar uma grande semelhança nos movimentos do gráfico. 
+O modelo 2 LSTM apresentou os melhores resultado em todos os indicadores de avaliação dos modelos, o diferencial da LSTM é sua capacidade padrão de lembrar de informações por longos períodos de tempo. Na análise de real x previsto pode-se notar uma grande semelhança nos movimentos do gráfico. 
 
 ![image](https://user-images.githubusercontent.com/48620885/178612786-beb0e08a-57cf-4193-9f1d-d0557c4bc8c9.png)
 
