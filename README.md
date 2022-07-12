@@ -100,6 +100,11 @@ Os melhores resultados foram encontrados pelo modelo 2 LSTM que considera as sé
 
 ### 4. Conclusões
 
+O modelo 2 LSTM apresentou o melhor resultado entre todos os modelos estudados. Na análise de real x previsto pode-se notar uma grande semelhança nos movimentos do gráfico. 
+
+![image](https://user-images.githubusercontent.com/48620885/178612786-beb0e08a-57cf-4193-9f1d-d0557c4bc8c9.png)
+
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
 
 Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
