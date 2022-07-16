@@ -100,15 +100,16 @@ Os melhores resultados foram encontrados pelo modelo 2 LSTM que considera as sé
 
 ### 4. Conclusões
 
-O Objetivo do trabalho foi explorar modelos de machine learning e redes neurais com intuito de obter o melhor resultado na otimização da previsão de vendas da loja número 1 do Walmart. Durante a avaliação dos modelos, houve destaque para o modelo 2 LSTM com resultados superiores em todos os indicadores. O diferencial da rede neural LSTM é sua capacidade padrão de lembrar de informações por longos períodos de tempo, o que a torna indicada para previsão de séries temporais em longos intervalos de tempo. Ao análisar o real x previsto houve semelhança nos movimentos do gráfico. 
+O Objetivo do trabalho foi explorar modelos de machine learning e redes neurais com intuito de obter o melhor resultado na otimização da previsão de vendas da loja número 1 do Walmart. A rede que obteve destaque na avaliação foi a LSTM com o diferencial da sua capacidade padrão de lembrar de informações por longos períodos de tempo, o que a torna indicada para previsão de séries temporais em longos intervalos de tempo. Ao análisar o modelo 2 LSTM do real x previsto houve semelhança nos movimentos do gráfico. 
 
-![image](https://user-images.githubusercontent.com/48620885/178612786-beb0e08a-57cf-4193-9f1d-d0557c4bc8c9.png)
+![image](https://user-images.githubusercontent.com/48620885/179369590-18a77eab-0649-414d-908b-6fd625e036a6.png)
+
 
 O modelo 2 LSTM na previsão dos proximos 12 passos seguiu o mesmo padrão de comportamento da série, demonstrando sua capacidade de memória da informação e capacidade preditiva.
 
 ![image](https://user-images.githubusercontent.com/48620885/178614862-e0dd2dc3-2494-4c95-8c77-5f3e54a59303.png)
 
-
+Portanto, durante a avaliação dos modelos, houve destaque para o modelo 2 LSTM com resultados superiores em todos os indicadores. O modelo 2 que tem com caracteristica o uso das séries exogenas que combinado ao uso da rede LSTM foi capaz de gerar os melhores resultados.
 
 ---
 
