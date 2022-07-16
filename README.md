@@ -109,7 +109,8 @@ O modelo 2 LSTM na previsão dos proximos 12 passos seguiu o mesmo padrão de co
 
 ![image](https://user-images.githubusercontent.com/48620885/178614862-e0dd2dc3-2494-4c95-8c77-5f3e54a59303.png)
 
-Portanto, durante a avaliação dos modelos, houve destaque para o modelo 2 LSTM com resultados superiores em todos os indicadores. O modelo 2 que tem com caracteristica o uso das séries exogenas que combinado ao uso da rede LSTM foi capaz de gerar os melhores resultados.
+Portanto, durante a avaliação dos modelos, houve destaque para o modelo 2 LSTM com resultados superiores em todos os indicadores de avaliação abordados no capitulo de resultados. O modelo 2 LSTM que tem como característica o uso das séries exogenas que combinado com otimizador Adam gerou os melhores resultados.
+
 
 ---
 
