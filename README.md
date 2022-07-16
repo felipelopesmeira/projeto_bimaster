@@ -100,19 +100,15 @@ Os melhores resultados foram encontrados pelo modelo 2 LSTM que considera as sé
 
 ### 4. Conclusões
 
-O Objetivo do trabalho foi explorar modelos de machine learning e redes neurais com intuito de obter o melhor resultado na otimização da previsão de vendas da loja número 1 do Walmart. Durante a avaliação dos modelos, houve destaque para o modelo 2 LSTM com resultados superiores em todos os indicadores de avaliação dos modelos. O diferencial da rede neural LSTM é sua capacidade padrão de lembrar de informações por longos períodos de tempo, ao análisar o real x previsto notou-se semelhança nos movimentos do gráfico. 
+O Objetivo do trabalho foi explorar modelos de machine learning e redes neurais com intuito de obter o melhor resultado na otimização da previsão de vendas da loja número 1 do Walmart. Durante a avaliação dos modelos, houve destaque para o modelo 2 LSTM com resultados superiores em todos os indicadores. O diferencial da rede neural LSTM é sua capacidade padrão de lembrar de informações por longos períodos de tempo, o que a torna indicada para previsão de séries temporais em longos intervalos de tempo. Ao análisar o real x previsto houve semelhança nos movimentos do gráfico. 
 
 ![image](https://user-images.githubusercontent.com/48620885/178612786-beb0e08a-57cf-4193-9f1d-d0557c4bc8c9.png)
 
-Na previsão dos proximos 12 passos o modelo novamente segue o mesmo padrão de comportamento da série, demonstrando sua capacidade de memoria da informação.
+O modelo 2 LSTM na previsão dos proximos 12 passos seguiu o mesmo padrão de comportamento da série, demonstrando sua capacidade de memória da informação e capacidade preditiva.
 
 ![image](https://user-images.githubusercontent.com/48620885/178614862-e0dd2dc3-2494-4c95-8c77-5f3e54a59303.png)
 
 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
-
-Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
 
 ---
 
