@@ -100,16 +100,16 @@ Os melhores resultados foram encontrados pelo modelo 2 LSTM que considera as sé
 
 ### 4. Conclusões
 
-O Objetivo do trabalho foi explorar modelos de machine learning e redes neurais com intuito de obter o melhor resultado na otimização da previsão de vendas da loja número 1 do Walmart. A rede que obteve destaque na avaliação foi a LSTM com o diferencial da sua capacidade padrão de lembrar de informações por longos períodos de tempo, o que a torna indicada para previsão de séries temporais em longos intervalos de tempo. Ao análisar o modelo 2 LSTM do real x previsto houve semelhança nos movimentos do gráfico. 
+O objetivo do trabalho foi explorar modelos de machine learning e redes neurais com intuito de obter o melhor resultado na otimização da previsão de vendas da loja número 1 do Walmart. A rede que obteve destaque na avaliação foi a LSTM com o diferencial da sua capacidade padrão de lembrar de informações por longos períodos de tempo, o que a torna indicada para previsão de séries temporais em longos intervalos de tempo. Ao análisar o modelo 2 LSTM do real x previsto houve semelhança nos movimentos do gráfico. 
 
 ![image](https://user-images.githubusercontent.com/48620885/179369590-18a77eab-0649-414d-908b-6fd625e036a6.png)
 
 
-O modelo 2 LSTM na previsão dos proximos 12 passos seguiu o mesmo padrão de comportamento da série, demonstrando sua capacidade de memória da informação e capacidade preditiva.
+O modelo 2 LSTM na previsão dos próximos 12 passos seguiu o mesmo padrão de comportamento da série, demonstrando sua capacidade de memória da informação e capacidade preditiva.
 
 ![image](https://user-images.githubusercontent.com/48620885/178614862-e0dd2dc3-2494-4c95-8c77-5f3e54a59303.png)
 
-Portanto, durante a avaliação dos modelos, houve destaque para o modelo 2 LSTM com resultados superiores em todos os indicadores de avaliação abordados no capitulo de resultados. O modelo 2 LSTM que tem como característica o uso das séries exogenas que combinado com otimizador Adam gerou os melhores resultados.
+Portanto, durante a avaliação dos modelos, houve destaque para o modelo 2 LSTM com resultados superiores em todos os indicadores de avaliação abordados no capítulo de resultados. O modelo 2 LSTM, que tem como característica o uso das séries exógenas, ao ser combinado com otimizador Adam foi o que gerou os melhores resultados.
 
 
 ---
